@@ -93,8 +93,6 @@ Enter target domain: example.com
 python3 SubPecordonion.py > output.txt
 ```
 
-* Optionally add a logging facility (e.g. Python `logging`) to write structured logs to `logs/`.
-
 ---
 
 
