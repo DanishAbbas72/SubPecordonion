@@ -38,7 +38,7 @@ python3 SubPecordonion.py
 Below are some example screenshots of SubPecordonion in action:
 
 ##🔍 Subdomain Enumeration
-<img width="919" height="693" alt="Pic1" src="https://github.com/user-attachments/assets/b6d6f564-9880-45c1-a5af-c7741a16efaf" />
+<img width="919" height="693" alt="Pic1" src="https://github.com/DanishAbbas72/SubPecordonion/blob/main/Pic1.png" />
 
 ## 🌐 Live Host Detection
 <img width="904" height="682" alt="Pic2" src="https://github.com/user-attachments/assets/30046e89-f804-4cf6-bde2-1db354ac5804" />
