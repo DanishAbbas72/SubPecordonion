@@ -24,32 +24,31 @@ Clone the repository and navigate into the project directory:
 git clone https://github.com/yourusername/SubPecordonion.git
 cd SubPecordonion
 
-📦 Requirements
+## 📦 Requirements
 - Python 3.x
 - Required libraries (install via pip):
 
-🚀 Usage
+## 🚀 Usage
 Run the script with:
 python3 SubPecordonion.py
 
-🖼 Example
+## 🖼 Example
 Below are some example screenshots of SubPecordonion in action:
 
-<img width="919" height="693" alt="Pic1" src="Pic1.png" />
+##🔍 Subdomain Enumeration
+<img width="919" height="693" alt="Pic1" src="https://github.com/user-attachments/assets/b6d6f564-9880-45c1-a5af-c7741a16efaf" />
 
-<img width="904" height="682" alt="Pic2" src="Pic2.png" />
+## 🌐 Live Host Detection
+<img width="904" height="682" alt="Pic2" src="https://github.com/user-attachments/assets/30046e89-f804-4cf6-bde2-1db354ac5804" />
 
-<img width="901" height="541" alt="Pic3" src="Pic3.png" />
+## ⚡ Port Scanning
+<img width="901" height="541" alt="Pic3" src="https://github.com/user-attachments/assets/40b89105-5426-4fc1-80e7-35da92704d9b" />
 
-<img width="911" height="678" alt="Pic4" src="Pic4.png" />
+## 🕷 Katana Spidering
+<img width="911" height="678" alt="Pic4" src="https://github.com/user-attachments/assets/a292a817-e106-4234-9fb6-c869336bffc4" />
 
-🛡 Disclaimer
+## 🛡 Disclaimer
 This tool is intended for educational and authorized security testing purposes only.
 The author is not responsible for any misuse or damage caused by this program.
-
-
-
-
-
 
 
