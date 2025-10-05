@@ -27,12 +27,10 @@ Clone the repository and navigate into the project directory using your specific
 git clone https://github.com/DanishAbbas72/SubPecordonion.git
 cd SubPecordonion
 
----
+## 📦 Requirements
+SubPecordonion requires Python 3.x. Install the necessary libraries using pip:
 
-## 📖 Description
+Bash
 
-**SubPecordonion** is a lightweight yet powerful reconnaissance tool designed for penetration testers, bug bounty hunters, and security researchers.
+pip3 install -r requirements.txt
 
-It combines multiple recon techniques into a single modular Python script, helping you quickly map attack surfaces and uncover hidden assets in the initial stages of a security assessment.
-
----
