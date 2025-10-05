@@ -73,9 +73,8 @@ Enter target domain: example.com
 ## 🖼 Example Workflow (Screenshots / Output placeholders)
 
 1. **🔍 Tool Launch & Subdomain Enumeration**
+![image](https://github.com/user-attachments/assets/74743755-f565-483d-a4ef-98c0ab7cc02c)
 
-   * The tool starts and actively finds subdomains for the target.
-   * *Placeholder for screenshot: `docs/screenshots/01-enumeration.png`*
 
 2. **🌐 Live Host Detection & Summary**
 
