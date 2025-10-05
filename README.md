@@ -35,13 +35,13 @@ python3 SubPecordonion.py
 🖼 Example
 Below are some example screenshots of SubPecordonion in action:
 
-<img width="919" height="693" alt="Pic1" src="https://github.com/user-attachments/assets/611fe7d0-d142-4151-b535-16b8a477db80" />
+<img width="919" height="693" alt="Pic1" src="Pic1.png" />
 
-<img width="904" height="682" alt="Pic2" src="https://github.com/user-attachments/assets/a955b50e-ee96-4418-85f4-86091df593ad" />
+<img width="904" height="682" alt="Pic2" src="Pic2.png" />
 
-<img width="901" height="541" alt="Pic3" src="https://github.com/user-attachments/assets/bd4e80fb-1ff8-45d6-9af7-f15ac21a4996" />
+<img width="901" height="541" alt="Pic3" src="Pic3.png" />
 
-<img width="911" height="678" alt="Pic4" src="https://github.com/user-attachments/assets/9d68fe08-2b50-46a4-8a03-172464244bfe" />
+<img width="911" height="678" alt="Pic4" src="Pic4.png" />
 
 🛡 Disclaimer
 This tool is intended for educational and authorized security testing purposes only.
