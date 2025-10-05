@@ -42,14 +42,6 @@ Check your Python version:
 python3 --version
 ```
 
-3. **Install dependencies** (if `requirements.txt` exists):
-
-```bash
-pip3 install -r requirements.txt
-```
-
-> If you don’t have a `requirements.txt`, install the packages used in the project manually.
-
 ---
 
 ## 🖥️ Usage
@@ -72,23 +64,26 @@ Enter target domain: example.com
 
 ## 🖼 Example Workflow (Screenshots / Output placeholders)
 
-1. **🔍 Tool Launch & Subdomain Enumeration**
+1. **🔍 Tool Launch **
+
 ![image](https://github.com/user-attachments/assets/74743755-f565-483d-a4ef-98c0ab7cc02c)
 
+2. ** ☠️ Subdomain Enumeration **
 
-2. **🌐 Live Host Detection & Summary**
+![image](https://github.com/user-attachments/assets/cee4c4e4-cc75-47b5-af45-4bbc3b2eb4b5)
 
-   * Results are filtered to show only live and accessible hosts.
-   * *Placeholder for screenshot: `docs/screenshots/02-live-hosts.png`*
 
-3. **⚡ Port Scanning & 🕷 Katana Spidering**
+3. **🌐 Live Host Detection & Summary**
 
-   * Scans live hosts for open ports and uses Katana to crawl for hidden endpoints.
-   * *Placeholder for screenshot: `docs/screenshots/03-ports-endpoints.png`*
+![image](https://github.com/user-attachments/assets/f4b10709-84b8-4648-8062-d7ee1900177e)
 
-> Add real screenshots to the `docs/screenshots/` folder and update the paths above.
+
+4. **⚡ Port Scanning & 🕷 Katana Spidering**
+
+  ![image]("https://github.com/user-attachments/assets/60c58dd1-e9aa-4158-976f-6bf13da326c1)
 
 ---
+
 
 ## 🧩 Output & Logs
 
@@ -102,12 +97,6 @@ python3 SubPecordonion.py > output.txt
 
 ---
 
-## 🛠️ Configuration
-
-* Customize scanning options and engines inside the script or via a configuration file (if provided).
-* Consider adding a `config.yaml` or `config.json` for user-adjustable settings (engines, timeouts, port lists).
-
----
 
 ## ✍️ Contribution
 
@@ -119,8 +108,6 @@ Contributions, issues, and feature requests are welcome!
 4. Push to the branch (`git push origin feature/my-feature`)
 5. Create a Pull Request
 
-Please follow responsible disclosure and ensure any new features or fixes include appropriate tests or documentation.
-
 ---
 
 ## 🛡 Disclaimer
@@ -129,11 +116,6 @@ This tool is intended **for educational and authorized security testing only**. 
 
 ---
 
-## 📝 License
-
-Specify a license for the project (e.g., MIT, Apache-2.0). If you want, add a `LICENSE` file with the chosen license.
-
----
 
 ## 👤 Author
 
@@ -141,13 +123,3 @@ Specify a license for the project (e.g., MIT, Apache-2.0). If you want, add a `L
 
 ---
 
-## 📌 Next steps / Suggestions
-
-* Add a `requirements.txt` listing required Python packages.
-* Add example configuration file (`config.yaml`).
-* Add real screenshots to `docs/screenshots/` and update corresponding placeholders.
-* Consider splitting functionality into modules and exposing a CLI using `argparse` or `click` for non-interactive automation.
-
----
-
-*Generated README for SubPecordonion (v1.0).*
