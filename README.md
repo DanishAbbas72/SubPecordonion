@@ -80,7 +80,7 @@ Enter target domain: example.com
 
 4. **⚡ Port Scanning & 🕷 Katana Spidering**
 
-  ![image]("https://github.com/user-attachments/assets/60c58dd1-e9aa-4158-976f-6bf13da326c1)
+  ![image](https://github.com/user-attachments/assets/60c58dd1-e9aa-4158-976f-6bf13da326c1)
 
 ---
 
