@@ -85,7 +85,7 @@ Enter target domain: example.com
 ---
 
 
-## 🧩 Output & Logs
+## 🧩 Output
 
 * The tool prints progress to the terminal. You can redirect output to a file if desired:
 
