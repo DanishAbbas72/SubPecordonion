@@ -1,32 +1,55 @@
-# SubPecordonion
-SubPecordonion is a lightweight yet powerful Python-based reconnaissance tool designed for penetration testers, bug bounty hunters, and security researchers. Discovering hidden subdomains, Identifying live hosts, Scanning top 100 ports for exposed services, Spidering with Katana to reveal hidden endpoints
+# 🧅 SubPecordonion  
 
-# SubPecordonion 🧅 (v1.0)
-### A Fast, Modular Reconnaissance Utility for Security Testing
+⚡ **A fast, modular recon utility for security testing** ⚡  
 
----
-
-## ⚡ Description
-
-**SubPecordonion** (Subdomain Enumeration, Pecordion-like) is a comprehensive and highly efficient **Python-based reconnaissance tool** designed for security professionals and bug bounty hunters. It automates the initial and often tedious steps of security testing by performing a multi-stage target discovery in a single, seamless execution.
-
-From casting a wide net for subdomains to pinpointing open ports and hidden endpoints, SubPecordonion provides a powerful and modular workflow for gathering critical information about your target domain.
-
-### Key Features
-
-* ☠️ **Subdomain Enumeration:** Uses a multi-engine approach to discover a maximum number of subdomains for a given target.
-* 💀 **Live Host Detection:** Filters the enumerated subdomains to identify only the hosts that are currently active and responsive.
-* ⚔️ **Port Scanning (Top 100):** Scans the active hosts for the top 100 most commonly exposed services, quickly identifying potential entry points.
-* 🕷️ **Katana Spidering (Live):** Integrates the powerful **Katana** web crawler to uncover hidden directories, files, and parameterized URLs on the live target, revealing deep-seated endpoints for further testing.
+☠ Subdomain Enumeration with multi-engine depth  
+💀 Live Host Detection for active targets  
+⚔ Top 100 Port Scanning for exposed services  
+🕷 Katana Spidering to uncover hidden endpoints  
 
 ---
 
-## 🛠️ Installation
+## 📖 Description  
 
-Follow these simple steps to get **SubPecordonion** up and running on your system (recommended on **Kali Linux** or other Linux distributions).
+**SubPecordonion** is a lightweight yet powerful reconnaissance tool designed for penetration testers, bug bounty hunters, and security researchers.  
+It combines multiple recon techniques into a single modular script, helping you quickly map attack surfaces and uncover hidden assets.  
 
-### 1. Clone the Repository
-Use `git clone` to download the tool to your local machine:
+---
+
+## ⚙️ Installation  
+
+Clone the repository and navigate into the project directory:  
+
 ```bash
-git clone [https://github.com/YourUsername/SubPecordonion.git](https://github.com/YourUsername/SubPecordonion.git)
+git clone https://github.com/yourusername/SubPecordonion.git
 cd SubPecordonion
+
+📦 Requirements
+- Python 3.x
+- Required libraries (install via pip):
+
+🚀 Usage
+Run the script with:
+python3 SubPecordonion.py
+
+🖼 Example
+Below are some example screenshots of SubPecordonion in action:
+
+<img width="919" height="693" alt="Pic1" src="https://github.com/user-attachments/assets/611fe7d0-d142-4151-b535-16b8a477db80" />
+
+<img width="904" height="682" alt="Pic2" src="https://github.com/user-attachments/assets/a955b50e-ee96-4418-85f4-86091df593ad" />
+
+<img width="901" height="541" alt="Pic3" src="https://github.com/user-attachments/assets/bd4e80fb-1ff8-45d6-9af7-f15ac21a4996" />
+
+<img width="911" height="678" alt="Pic4" src="https://github.com/user-attachments/assets/9d68fe08-2b50-46a4-8a03-172464244bfe" />
+
+🛡 Disclaimer
+This tool is intended for educational and authorized security testing purposes only.
+The author is not responsible for any misuse or damage caused by this program.
+
+
+
+
+
+
+
