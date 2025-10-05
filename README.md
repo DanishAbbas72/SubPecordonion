@@ -19,18 +19,20 @@ It combines multiple recon techniques into a single modular script, helping you 
 ## ⚙️ Installation  
 
 Clone the repository and navigate into the project directory:  
-
 ```bash
 git clone https://github.com/yourusername/SubPecordonion.git
 cd SubPecordonion
+---
 
-# 📦 Requirements
+## 📦 Requirements
 - Python 3.x
 - Required libraries (install via pip):
+---
 
 ## 🚀 Usage
 Run the script with:
 python3 SubPecordonion.py
+---
 
 ## 🖼 Example
 Below are some example screenshots of SubPecordonion in action:
@@ -46,6 +48,8 @@ Below are some example screenshots of SubPecordonion in action:
 
 ## 🕷 Katana Spidering
 <img width="911" height="678" alt="Pic4" src="https://github.com/user-attachments/assets/a292a817-e106-4234-9fb6-c869336bffc4" />
+
+---
 
 ## 🛡 Disclaimer
 This tool is intended for educational and authorized security testing purposes only.
